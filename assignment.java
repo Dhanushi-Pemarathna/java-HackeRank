@@ -27,9 +27,6 @@
 // 19 Samara 3.75
 // 22 Fahim 3.76
 
-// ASSIGNMENT 01(Java Fundamental)
-
-
 // Sample Output
 // Ashis
 // Fahim
